@@ -1,7 +1,7 @@
 CC = g++
 CFLAGS = -Wall 
 
-SRCS = main.cpp time.cpp liga.cpp
+SRCS = main.cpp aresta.cpp grafo.cpp
 OBJ_DIR = compilados
 OBJS = $(addprefix $(OBJ_DIR)/, $(SRCS:.cpp=.o))
 

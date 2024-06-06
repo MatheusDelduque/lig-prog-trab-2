@@ -1,0 +1,16 @@
+Ana Bruno 1.0
+Ana Carlos 2.0
+Ana Daniel 3.0
+Ana Enzo 4.0
+Bruno Daniel 1.0
+Bruno Fabio 3.0
+Bruno Italo 8.0
+Carlos Fabio 3.0
+Daniel Italo 2.0
+Enzo Daniel 4.0
+Fabio Gustavo 1.0
+Fabio Ana 2.0
+Gustavo Heitor 2.0
+Heitor Italo 3.0
+Heitor Bruno 2.0
+Heitor Fabio 3.0
